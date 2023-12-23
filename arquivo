@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main(){
-    std::cout << "sou um arquivo C++ e estou num repositório github :D"
+    std::cout << "sou um arquivo C++ e estou num repositório github :D";
 }
